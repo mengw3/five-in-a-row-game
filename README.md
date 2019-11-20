@@ -1,2 +1,2 @@
-# WebScraping
-# five-in-a-row-game group work with ZhehongWang
+# five-in-a-row-game
+group work with Zhehong Wang
