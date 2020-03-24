@@ -1,2 +1,2 @@
-# five-in-a-row-game
-group work with Zhehong Wang
+# sp20-cs242-assignment1
+# goodreadDashboard
