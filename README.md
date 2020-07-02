@@ -1,4 +1,2 @@
-# sp20-cs242-assignment1
-# goodreadDashboard
-# goodreadDashboard
-# usStockMarketApp
+# five-in-a-row-game
+group work with Zhehong Wang
